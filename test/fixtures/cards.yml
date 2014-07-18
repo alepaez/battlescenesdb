@@ -1,0 +1,25 @@
+agente_shield:
+  id: 1001
+  rarity: "c"
+  card_type: "p"
+  faction: "S.H.I.E.L.D"
+  alignment: "heroi"
+  name: "Agente S.H.I.E.L.D"
+  alter_ego: nil
+  energy: 1
+  shield: 0
+  agility: false
+  ranged_attack: true
+  energy_attack: false
+  elasticity: false
+  genius: false
+  blades: false
+  magic: false
+  regeneration: false
+  super_strength: false
+  telekinesis: false
+  telepathy: false
+  flying: false
+  anticipation: false
+  unforeseen: false
+  text: "Pode haver qualquer número de personagens chamados AGENTE S.H.I.E.L.D. (1) ATAQUE ARMADO\nATAQUE ARMADO causa 1 ponto de dano no alvo."

@@ -3,7 +3,7 @@ class CreateCard < ActiveRecord::Migration
     create_table :cards, id: false do |t|
       t.column :id, :integer, options: 'PRIMARY KEY'
       t.column :rarity, :string
-      t.column :type, :string
+      t.column :card_type, :string
       t.column :faction, :string
       t.column :alignment, :string
       t.column :name, :string

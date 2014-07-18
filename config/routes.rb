@@ -1,4 +1,11 @@
 Battlescenesdb::Application.routes.draw do
+
+  root :to => "application#app"
+
+  namespace :api do
+    get "cards" => "cards#index"
+  end
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

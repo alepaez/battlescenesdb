@@ -16,7 +16,7 @@ ActiveRecord::Schema.define(:version => 20140530153913) do
   create_table "cards", :id => false, :force => true do |t|
     t.integer "id"
     t.string  "rarity"
-    t.string  "type"
+    t.string  "card_type"
     t.string  "faction"
     t.string  "alignment"
     t.string  "name"
