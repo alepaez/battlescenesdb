@@ -9,6 +9,20 @@
       list.cards = data;
     });
 
+    var showCardDetails = function(card){
+      console.log("aqui");
+      card.show = true;
+    };
+
   } ]);
+
+  app.controller("CardDetailsController", function(){
+    this.show = false;
+
+    this.toggleDetails = function(){
+      this.show = !this.show;
+    }
+
+  });
 
 })();

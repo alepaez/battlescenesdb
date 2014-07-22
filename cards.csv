@@ -1,3 +1,10 @@
-id,name,rarity,alter_ego,card_type,alignment,faction,energy,shield,agility,ranged_attack,energy_attack,elasticity,genius,blades,magic,regeneration,super_strength,telekinesis,telepathy,flying,anticipation,unforeseen,text
-1001,Agente S.H.I.E.L.D,c,,p,heroi,S.H.I.E.L.D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Pode haver qualquer número de personagens chamados AGENTE S.H.I.E.L.D. (1) ATAQUE ARMADO
+id,name,rarity,alter_ego,card_type,alignment,faction,energy,shield,agility,ranged_attack,energy_attack,elasticity,genius,blades,magic,regeneration,super_strength,telekinesis,telepathy,flying,anticipation,unforeseen,text,hability
+1001,Agente S.H.I.E.L.D,c,n/a,p,heroi,S.H.I.E.L.D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Pode haver qualquer número de personagens chamados AGENTE S.H.I.E.L.D.
+"," (1) ATAQUE ARMADO -
 ATAQUE ARMADO causa 1 ponto de dano no alvo."
+1002,Capanga do Rei,c,n/a,p,vilão,Inimigos do Demolidor,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,CAPANGA DO REI ganha Escudo +1 para cada cards de habilidades de (ranged_attack) que ele estiver carregando. Pode haver qualquer número de personagens chamados CAPANGA DO REI em cena.," (1) FOGO CERRADO -
+FOGO CERRADO causa 1 ponto de dano no alvo."
+1003,Capitão America,sr,Steve Rogers,p,heroi,Vingadores,4,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,"Durante sua fase de Preparação, uma vez por turno, você pode capacitar em (1) um dos personagens dos Vingadores que você controla."," (0) RECUPERAR ESCUDO - Procure por um card chamado ESCUDO DO CAPITÃO AMÉRICA em sua mão, deck, cena ou
+recurso, revele-o e então carregue-o em CAPITÃO AMÉRICA. A seguir; embaralhe seu deck caso 
+tenha procurado alí, e descarregue cards de CAPITÃO AMÉRICA até que ele esteja carregando um 
+número de cards menor ou igual à sua Energia."

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20140530153913) do
+ActiveRecord::Schema.define(:version => 20140722165025) do
 
   create_table "cards", :id => false, :force => true do |t|
     t.integer "id"
@@ -38,6 +38,7 @@ ActiveRecord::Schema.define(:version => 20140530153913) do
     t.boolean "anticipation"
     t.boolean "unforeseen"
     t.text    "text"
+    t.text    "hability"
   end
 
 end

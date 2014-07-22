@@ -14,22 +14,31 @@
 
       <div class="list">
 
-        <table class="table" ng-controller="ListController as list">
-          <thead>
-            <tr>
-              <td>#</td>
-              <td>Nome</td>
-            </tr>
-          </thead>
+        <ul class="list-group" ng-controller="ListController as list">
 
-          <tbody>
-            <tr ng-repeat="card in list.cards">
-              <td>{{ card.id }}</td>
-              <td>{{ card.name }}</td>
-            </tr>
-          </tbody>
+          <li class="list-group-item" ng-repeat="card in list.cards">
+            <div>#{{ card.id }} - {{ card.name }}</div>
 
-        </table>
+            <div ng-controller="CardDetailsController as details">
+              <a class="details-button" href ng-click="details.toggleDetails()">Detalhes</a>
+
+              <div class="row card-details" ng-show="details.show">
+
+                <div class="col-sm-4 card-image">
+                  <img ng-src="assets/{{ card.id }}.png"/>
+                </div>
+
+                <div class="col-sm-8 card-info">
+                  <p>{{ card.text }}</p>
+                  <div class="well">{{ card.hability }}</div>
+                </div>
+
+              </div>
+
+            </div>
+          </li>
+
+        </ul>
 
       </div>
 

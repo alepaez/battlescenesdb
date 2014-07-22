@@ -4,7 +4,7 @@ require "csv"
 
 namespace :cards do
   task :import => :environment do
-    Card.destroy_all
+    ActiveRecord::Base.connection.execute("DELETE FROM cards")
     CSV.foreach(Rails.root + "cards.csv", headers: true) do |row|
       Card.create(row.to_hash)
     end
