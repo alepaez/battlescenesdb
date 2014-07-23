@@ -5,5 +5,73 @@
 }
 
 .card-details {
-  margin-top: 12px;
+  margin-top: 20px;
+}
+
+.card-details h3 {
+  margin-top: 0;
+}
+
+span.icon {
+  display: inline-block;
+  background-image: url("icones-poderes.png");
+  width: 19px;
+  height: 19px;
+}
+
+span.icon.elasticity {
+  background-position: 0 0;
+}
+
+span.icon.regeneration {
+  background-position: 0 -19px;
+  height: 18px;
+}
+
+span.icon.blades {
+  background-position: 0 -37px;
+  height: 18px;
+}
+
+span.icon.genius {
+  background-position: 0 -55px;
+  height: 18px;
+}
+
+span.icon.super_strength {
+  background-position: 0 -73px;
+}
+
+span.icon.agility {
+  background-position: 0 -92px;
+}
+
+span.icon.telepathy {
+  background-position: 0 -110px;
+}
+
+span.icon.flying {
+  background-position: 0 -129px;
+}
+
+span.icon.ranged_attack {
+  background-position: 0 -148px;
+}
+
+span.icon.energy_attack {
+  background-position: 0 -166px;
+  height: 18px;
+}
+
+span.icon.telekinesis {
+  background-position: 0 -184px;
+}
+
+span.icon.neutral {
+  background-position: 0 -203px;
+}
+
+span.icon.magic {
+  background-position: 0 -222px;
+  height: 20px;
 }

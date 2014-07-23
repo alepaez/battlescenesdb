@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20140722165025) do
+ActiveRecord::Schema.define(:version => 20140723150925) do
 
   create_table "cards", :id => false, :force => true do |t|
     t.integer "id"
@@ -35,10 +35,12 @@ ActiveRecord::Schema.define(:version => 20140722165025) do
     t.boolean "telekinesis"
     t.boolean "telepathy"
     t.boolean "flying"
-    t.boolean "anticipation"
-    t.boolean "unforeseen"
     t.text    "text"
     t.text    "hability"
+    t.integer "hability_cost"
+    t.string  "hability_name"
+    t.text    "hability_text"
+    t.string  "hability_type"
   end
 
 end
