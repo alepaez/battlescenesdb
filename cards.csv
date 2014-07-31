@@ -8,3 +8,15 @@ FOGO CERRADO causa 1 ponto de dano no alvo.",
 recurso, revele-o e então carregue-o em CAPITÃO AMÉRICA. A seguir; embaralhe seu deck caso 
 tenha procurado alí, e descarregue cards de CAPITÃO AMÉRICA até que ele esteja carregando um 
 número de cards menor ou igual à sua Energia.",a
+1004,Ciclope,i,Scott Summers,p,heroi,X-Men,4,0,0,0,1,0,0,0,0,0,0,0,0,0,Cada um dos personagens X-Men que você controla ganha Escudo +1.,1,RAJADA ÓTICA,RAJADA ÓTICA causa 1 ponto de dano no alvo.,
+1005,Coisa,i,Benjamin Jacob Grimm,p,heroi,Quarteto Fantástico,6,3,0,0,0,0,0,0,0,0,1,0,0,0,,1,TÁ NA HORA DO PAU,TÁ NA HORA DO PAU causa 3 pontos de dano no alvo.,
+1006,Colossus,i,"Piotr ""Peter"" Nikolaevitch Rasputin",p,heroi,X-Men,5,3,0,0,0,0,0,0,0,0,1,0,0,0,,1,MURRO METÁLICO,MURRO METÁLICO causa 3 pontos de dano no alvo.,
+1007,Demolidor,c,"Matthew Michael ""Matt"" Murdock",p,heroi,Aliados do Demolidor,4,1,1,1,0,0,0,0,0,0,0,0,0,0,,0,RADAR,O dano que DEMOLIDOR receberia da primeira ação que tenha ele como alvo neste turno é reduzido a zero.,a
+1008,Dentes-de-Sabre,i,Victor Creed,p,vilão,Irmandade de Mutantes,4,1,1,0,0,0,0,1,0,1,0,0,0,0,,1,DILACERAR,DILACERAR causa 2 pontos de dano no alvo.,
+1009,Dr. Destino,ur,Victor von Doom,p,vilão,Inimigos do Quarteto Fantástico,6,3,0,0,1,0,1,0,0,0,1,0,0,1,,0,PLANO MALIGNO,"Olhe os trés cards do topo do seu deck, revele e carregue um deles em DR. DESTINO, então descarregue um dos cards que DR. DESTINO estiver carregando. Coloque os outros dois cards no topo de seu deck em qualquer ordem.",
+1010,Dr. Octopus,r,Dr. Otto Octavius,p,vilão,Inimigos do Homem-Aranha,5,1,0,0,0,1,1,0,0,0,1,0,0,0,,X,ESPREMER,"ESPREMER causa X+1 pontos de dano no alvo, Incapacite em (1) o alvo caso X seja igual a 2.",
+1011,Duende Verde,c,Norman Virgil Osborn,p,vilão,Inimigos do Homem-Aranha,4,1,0,1,0,0,0,0,0,0,0,0,0,1,"Sempre que DUENDE VERDE fosse causar dano em personagens Aliado do Homem-aranha, ele causará aquela quantidade de dano +1.",1,BOMBA-ABÓBORA,"BOMBA-ABÓBORA causa 2 pontos de dano no alvo ou BOMBA-ABÓBORA causa 1 ponto de dano no alvo, caso o alvo tenha (flying).",
+1012,Elektra,i,Elektra Natchog,p,vilão,Inimigos do Demolidor,3,1,1,1,0,0,0,1,0,0,0,0,0,0,,2,GOLPES NINJA,GOLPES NINJA causa 1 ponto de dano no alvo. Incapacite em (1) o alvo.,
+1013,Emma Frost,c,Emma Grace Frost,p,heroi,X-Men,4,1,0,0,0,0,0,0,0,0,0,0,1,0,,1,CONFUNDIR,"Escolha um personagens que você não controla como alvo de CONFUNDIR. Descarregue todos os cards que o alvo estiver carregando, e então carregue o alvo com aquela mesma quantidade de cards.",
+1014,Fanático,c,Cain Marko,p,vilão,Irmandade de Mutantes,6,4,0,0,0,0,0,0,0,0,1,0,0,0,FANÁTICO não pode ser alvo de ações de (telepathy).,2,PANCADA,PANCADA causa 4 pontos de dano no alvo.,
+1015,Fênix,i,Jean Grey-Summers,p,heroi,X-Men,4,1,0,0,0,0,0,0,0,0,0,1,1,1,,2,ARREMESSO MENTAL,Devolva o alvo de ARREMESSO MENTAL para a mão de seu dono. Descarregue os cards que o alvo estiver carregando.,

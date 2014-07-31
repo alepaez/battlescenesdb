@@ -3,18 +3,48 @@
 
   <div class="row">
 
-    <div class="col-md-4">
+    <div class="list" ng-controller="ListController as list">
+      <div class="col-md-4">
 
-      <div class="menu">
+        <div class="menu">
+
+          <form>
+            <input name="name" type="text" placeholder="Nome" ng-model="list.filter.name" ng-change="list.filterCards()"></input>
+            <input name="alter_ego" type="text" placeholder="Alter Ego" ng-model="list.filter.alter_ego" ng-change="list.filterCards()"></input>
+            <input name="alter_ego" type="text" placeholder="Afiliação" ng-model="list.filter.faction" ng-change="list.filterCards()"></input>
+            <span class="icon elasticity"></span>
+            <input name="elasticity" type="checkbox" ng-model="list.filter.elasticity" ng-true-value="true" ng-false-value="false" ng-change="list.filterCards()"></input>
+            <span class="icon regeneration"></span>
+            <input name="regeneration" type="checkbox" ng-model="list.filter.regeneration" ng-true-value="true" ng-false-value="false" ng-change="list.filterCards()"></input>
+            <span class="icon blades"></span>
+            <input name="blades" type="checkbox" ng-model="list.filter.blades" ng-true-value="true" ng-false-value="false" ng-change="list.filterCards()"></input>
+            <span class="icon genius"></span>
+            <input name="genius" type="checkbox" ng-model="list.filter.genius" ng-true-value="true" ng-false-value="false" ng-change="list.filterCards()"></input>
+            <span class="icon super_strength"></span>
+            <input name="super_strength" type="checkbox" ng-model="list.filter.super_strength" ng-true-value="true" ng-false-value="false" ng-change="list.filterCards()"></input>
+            <span class="icon agility"></span>
+            <input name="agility" type="checkbox" ng-model="list.filter.agility" ng-true-value="true" ng-false-value="false" ng-change="list.filterCards()"></input>
+            <span class="icon telepathy"></span>
+            <input name="telepathy" type="checkbox" ng-model="list.filter.telepathy" ng-true-value="true" ng-false-value="false" ng-change="list.filterCards()"></input>
+            <span class="icon flying"></span>
+            <input name="flying" type="checkbox" ng-model="list.filter.flying" ng-true-value="true" ng-false-value="false" ng-change="list.filterCards()"></input>
+            <span class="icon ranged_attack"></span>
+            <input name="ranged_attack" type="checkbox" ng-model="list.filter.ranged_attack" ng-true-value="true" ng-false-value="false" ng-change="list.filterCards()"></input>
+            <span class="icon energy_attack"></span>
+            <input name="energy_attack" type="checkbox" ng-model="list.filter.energy_attack" ng-true-value="true" ng-false-value="false" ng-change="list.filterCards()"></input>
+            <span class="icon telekinesis"></span>
+            <input name="telekinesis" type="checkbox" ng-model="list.filter.telekinesis" ng-true-value="true" ng-false-value="false" ng-change="list.filterCards()"></input>
+            <span class="icon magic"></span>
+            <input name="magic" type="checkbox" ng-model="list.filter.magic" ng-true-value="true" ng-false-value="false" ng-change="list.filterCards()"></input>
+          </form>
+
+        </div>
+
       </div>
 
-    </div>
+      <div class="col-md-8">
 
-    <div class="col-md-8">
-
-      <div class="list">
-
-        <ul class="list-group" ng-controller="ListController as list">
+        <ul class="list-group" >
 
           <li class="list-group-item" ng-repeat="card in list.cards">
             <div>{{ card.card_type }} - {{ card.name }} - {{ card.alter_ego }}
@@ -60,4 +90,6 @@
       </div>
 
     </div>
+
+  </div>
 </div>
