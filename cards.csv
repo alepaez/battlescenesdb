@@ -20,3 +20,13 @@ número de cards menor ou igual à sua Energia.",a
 1013,Emma Frost,c,Emma Grace Frost,p,heroi,X-Men,4,1,0,0,0,0,0,0,0,0,0,0,1,0,,1,CONFUNDIR,"Escolha um personagens que você não controla como alvo de CONFUNDIR. Descarregue todos os cards que o alvo estiver carregando, e então carregue o alvo com aquela mesma quantidade de cards.",
 1014,Fanático,c,Cain Marko,p,vilão,Irmandade de Mutantes,6,4,0,0,0,0,0,0,0,0,1,0,0,0,FANÁTICO não pode ser alvo de ações de (telepathy).,2,PANCADA,PANCADA causa 4 pontos de dano no alvo.,
 1015,Fênix,i,Jean Grey-Summers,p,heroi,X-Men,4,1,0,0,0,0,0,0,0,0,0,1,1,1,,2,ARREMESSO MENTAL,Devolva o alvo de ARREMESSO MENTAL para a mão de seu dono. Descarregue os cards que o alvo estiver carregando.,
+1016,Fera,i,"Dr. Henry Philip ""Hank"" McCoy",p,heroi,X-Men,4,1,1,0,0,0,1,0,0,0,0,0,0,0,,1,VOADORA,VOADORA causa 2 pontos de ano no alvo.,
+1017,Gavião Arqueiro,c,"Clinton ""Clint"" Francis Barton",p,heroi,S.H.I.E.L.D./Vingadores,3,1,0,1,0,0,0,0,0,0,0,0,0,0,,1,FLECHAS ESPECIAIS,"FLECHAS ESPECIAIS causa 1 ponto de dano penetrante no alvo, ou FLECHAS ESPECIAIS causa 2 pontos de dano no alvo.",
+1018,Homem de Ferro,sr,"Anthony Edward ""Tony"" Stark",p,heroi,Vingadores,4,2,0,0,1,0,1,0,0,0,1,0,0,1,,1,RAIO REPULSOR,RAIO REPULSOR causa 1 ponto de dano penetrante no alvo.,
+1019,Homem-Aranha,c,Peter Benjamin Parker,p,heroi,Aliados do Homem-Aranha,4,1,1,0,0,1,0,0,0,0,0,0,0,0,,1,TEIA DO ARANHA,O alvo de TEIA DO ARANHA ganha -1 Escudo até o final do turno. TEIA DO ARANHA causa 1 ponto de dano no alvo.,
+1020,Hulk,r,Robert Bruce Banner,p,heroi,Vingadores,8,3,0,0,0,0,0,0,0,1,1,0,0,0,"Enquanto HULK estiver com Energia 1, ele ganha Escudo 0 e perde todos os seus poderes.",1,HULK ESMAGA,HULK ESMAGA causa 4 pontos de dano no alvo.,
+1021,Magneto,r,Erik Magnus Lehnsherr,p,vilão,Irmandade de Mutantes,6,1,0,0,0,1,0,0,0,0,0,1,0,1," MAGNETO não pode ser alvo de ações de (telepathy)
+ 
+
+Sempre que um integrante de Irmandade de Mutantes que você controla fosse causar dano a um X-Men, ele causará aquela quantidade de dano +1.",1,FORÇA MAGNÉTICA,"Incapacite em (1) ou (2) o alvo de FORÇA MAGNÉTICA ou devolve o alvo de FORÇA MAGNÉTICA para a mão de seu dono e descarregue os cards que ele estiver carregando, caso o alvo tenha (blades) ou seja um suporte.",
+1022,Mercenário,c,Lester,p,vilão,Inimigos do Demolidor,3,1,1,1,0,0,0,0,0,0,0,0,0,0,,1,NA MOSCA,NA MOSCA causa 1 ponto de dano no alvo. Escolha um dos cards de habilidade que o alvo estiver carregando. O alvo não pode usar nenhuma das ações do card escolhido neste turno.,a
