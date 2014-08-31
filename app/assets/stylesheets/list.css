@@ -1,3 +1,16 @@
+.powerFilter .powerFilterSelect {
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
+.powerFilter .powerFilterSelect:first-child {
+  margin-left: 0px;
+}
+
+.powerFilter .powerFilterSelect:last-child {
+  margin-right: 0px;
+}
+
 .details-button {
   position: absolute;
   right: 10px;
