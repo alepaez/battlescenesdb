@@ -1,0 +1,157 @@
+id,name,rarity,alter_ego,card_type,alignment,faction,energy,shield,agility,ranged_attack,energy_attack,elasticity,genius,blades,magic,regeneration,super_strength,telekinesis,telepathy,flying,text,hability_cost,hability_name,hability_text,hability_type
+1001,Agente S.H.I.E.L.D,c,n/a,p,heroi,S.H.I.E.L.D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,"Pode haver qualquer número de personagens chamados AGENTE S.H.I.E.L.D.
+",1,ATAQUE ARMADO,"
+ATAQUE ARMADO causa 1 ponto de dano no alvo.",
+1002,Capanga do Rei,c,n/a,p,vilão,Inimigos do Demolidor,1,0,0,1,0,0,0,0,0,0,0,0,0,0,CAPANGA DO REI ganha Escudo +1 para cada cards de habilidades de (ranged_attack) que ele estiver carregando. Pode haver qualquer número de personagens chamados CAPANGA DO REI em cena.,1,FOGO CERRADO,"
+FOGO CERRADO causa 1 ponto de dano no alvo.",
+1003,Capitão America,sr,Steve Rogers,p,heroi,Vingadores,4,0,1,1,0,0,0,0,0,0,0,0,0,0,"Durante sua fase de Preparação, uma vez por turno, você pode capacitar em (1) um dos personagens dos Vingadores que você controla.",0,RECUPERAR ESCUDO,"Procure por um card chamado ESCUDO DO CAPITÃO AMÉRICA em sua mão, deck, cena ou
+recurso, revele-o e então carregue-o em CAPITÃO AMÉRICA. A seguir; embaralhe seu deck caso 
+tenha procurado alí, e descarregue cards de CAPITÃO AMÉRICA até que ele esteja carregando um 
+número de cards menor ou igual à sua Energia.",a
+1004,Ciclope,i,Scott Summers,p,heroi,X-Men,4,0,0,0,1,0,0,0,0,0,0,0,0,0,Cada um dos personagens X-Men que você controla ganha Escudo +1.,1,RAJADA ÓTICA,RAJADA ÓTICA causa 1 ponto de dano no alvo.,
+1005,Coisa,i,Benjamin Jacob Grimm,p,heroi,Quarteto Fantástico,6,3,0,0,0,0,0,0,0,0,1,0,0,0,,1,TÁ NA HORA DO PAU,TÁ NA HORA DO PAU causa 3 pontos de dano no alvo.,
+1006,Colossus,i,"Piotr ""Peter"" Nikolaevitch Rasputin",p,heroi,X-Men,5,3,0,0,0,0,0,0,0,0,1,0,0,0,,1,MURRO METÁLICO,MURRO METÁLICO causa 3 pontos de dano no alvo.,
+1007,Demolidor,c,"Matthew Michael ""Matt"" Murdock",p,heroi,Aliados do Demolidor,4,1,1,1,0,0,0,0,0,0,0,0,0,0,,0,RADAR,O dano que DEMOLIDOR receberia da primeira ação que tenha ele como alvo neste turno é reduzido a zero.,a
+1008,Dentes-de-Sabre,i,Victor Creed,p,vilão,Irmandade de Mutantes,4,1,1,0,0,0,0,1,0,1,0,0,0,0,,1,DILACERAR,DILACERAR causa 2 pontos de dano no alvo.,
+1009,Dr. Destino,ur,Victor von Doom,p,vilão,Inimigos do Quarteto Fantástico,6,3,0,0,1,0,1,0,0,0,1,0,0,1,,0,PLANO MALIGNO,"Olhe os trés cards do topo do seu deck, revele e carregue um deles em DR. DESTINO, então descarregue um dos cards que DR. DESTINO estiver carregando. Coloque os outros dois cards no topo de seu deck em qualquer ordem.",
+1010,Dr. Octopus,r,Dr. Otto Octavius,p,vilão,Inimigos do Homem-Aranha,5,1,0,0,0,1,1,0,0,0,1,0,0,0,,X,ESPREMER,"ESPREMER causa X+1 pontos de dano no alvo, Incapacite em (1) o alvo caso X seja igual a 2.",
+1011,Duende Verde,c,Norman Virgil Osborn,p,vilão,Inimigos do Homem-Aranha,4,1,0,1,0,0,0,0,0,0,0,0,0,1,"Sempre que DUENDE VERDE fosse causar dano em personagens Aliado do Homem-aranha, ele causará aquela quantidade de dano +1.",1,BOMBA-ABÓBORA,"BOMBA-ABÓBORA causa 2 pontos de dano no alvo ou BOMBA-ABÓBORA causa 1 ponto de dano no alvo, caso o alvo tenha (flying).",
+1012,Elektra,i,Elektra Natchog,p,vilão,Inimigos do Demolidor,3,1,1,1,0,0,0,1,0,0,0,0,0,0,,2,GOLPES NINJA,GOLPES NINJA causa 1 ponto de dano no alvo. Incapacite em (1) o alvo.,
+1013,Emma Frost,c,Emma Grace Frost,p,heroi,X-Men,4,1,0,0,0,0,0,0,0,0,0,0,1,0,,1,CONFUNDIR,"Escolha um personagens que você não controla como alvo de CONFUNDIR. Descarregue todos os cards que o alvo estiver carregando, e então carregue o alvo com aquela mesma quantidade de cards.",
+1014,Fanático,c,Cain Marko,p,vilão,Irmandade de Mutantes,6,4,0,0,0,0,0,0,0,0,1,0,0,0,FANÁTICO não pode ser alvo de ações de (telepathy).,2,PANCADA,PANCADA causa 4 pontos de dano no alvo.,
+1015,Fênix,i,Jean Grey-Summers,p,heroi,X-Men,4,1,0,0,0,0,0,0,0,0,0,1,1,1,,2,ARREMESSO MENTAL,Devolva o alvo de ARREMESSO MENTAL para a mão de seu dono. Descarregue os cards que o alvo estiver carregando.,
+1016,Fera,i,"Dr. Henry Philip ""Hank"" McCoy",p,heroi,X-Men,4,1,1,0,0,0,1,0,0,0,0,0,0,0,,1,VOADORA,VOADORA causa 2 pontos de ano no alvo.,
+1017,Gavião Arqueiro,c,"Clinton ""Clint"" Francis Barton",p,heroi,S.H.I.E.L.D./Vingadores,3,1,0,1,0,0,0,0,0,0,0,0,0,0,,1,FLECHAS ESPECIAIS,"FLECHAS ESPECIAIS causa 1 ponto de dano penetrante no alvo, ou FLECHAS ESPECIAIS causa 2 pontos de dano no alvo.",
+1018,Homem de Ferro,sr,"Anthony Edward ""Tony"" Stark",p,heroi,Vingadores,4,2,0,0,1,0,1,0,0,0,1,0,0,1,,1,RAIO REPULSOR,RAIO REPULSOR causa 1 ponto de dano penetrante no alvo.,
+1019,Homem-Aranha,c,Peter Benjamin Parker,p,heroi,Aliados do Homem-Aranha,4,1,1,0,0,1,0,0,0,0,0,0,0,0,,1,TEIA DO ARANHA,O alvo de TEIA DO ARANHA ganha -1 Escudo até o final do turno. TEIA DO ARANHA causa 1 ponto de dano no alvo.,
+1020,Hulk,r,Robert Bruce Banner,p,heroi,Vingadores,8,3,0,0,0,0,0,0,0,1,1,0,0,0,"Enquanto HULK estiver com Energia 1, ele ganha Escudo 0 e perde todos os seus poderes.",1,HULK ESMAGA,HULK ESMAGA causa 4 pontos de dano no alvo.,
+1021,Magneto,r,Erik Magnus Lehnsherr,p,vilão,Irmandade de Mutantes,6,1,0,0,0,0,1,0,0,0,0,1,0,1," MAGNETO não pode ser alvo de ações de (telepathy)
+ 
+
+Sempre que um integrante de Irmandade de Mutantes que você controla fosse causar dano a um X-Men, ele causará aquela quantidade de dano +1.",1,FORÇA MAGNÉTICA,"Incapacite em (1) ou (2) o alvo de FORÇA MAGNÉTICA ou devolve o alvo de FORÇA MAGNÉTICA para a mão de seu dono e descarregue os cards que ele estiver carregando, caso o alvo tenha (blades) ou seja um suporte.",
+1022,Mercenário,c,Lester,p,vilão,Inimigos do Demolidor,3,1,1,1,0,0,0,0,0,0,0,0,0,0,,1,NA MOSCA,NA MOSCA causa 1 ponto de dano no alvo. Escolha um dos cards de habilidade que o alvo estiver carregando. O alvo não pode usar nenhuma das ações do card escolhido neste turno.,a
+1023,Mística,r,Raven Darkholme,p,vilão,Irmandade de Mutantes,3,1,1,1,0,0,0,0,0,0,0,0,0,0,,1,LUDIBRIAR,"Descarregue todos os cards que MISTICA estiver carregando. Escolha um card dos prêmios de um oponente e coloque-o em sua mão, e então coloque MISTICA nos prêmios de seu oponente.",
+1024,Mulher Invisível,i,"Susan ""Sue"" Storm Richards",p,heroi,Quarteto Fantástico,3,*,0,0,0,0,0,0,0,0,0,1,0,1,"O valor de Escudo de MULHER INVISÍVEL é igual ao número de cards que ela estiver carregando.
+ 
+Cada um dos outros personagens do Quarteto Fantástico que você controla ganha Escudo +1.",0,ESCUDO INVISÍVEL,O alvo de ESCUDO INVISÍVEL ganha Escudo +1 até o final do turno.,a
+1025,Nick Fury,r,"Nicholas Joseph ""Nick"" Fury",p,heroi,S.H.I.E.L.D.,3,0,0,1,0,0,0,0,0,0,0,0,0,0,"Quando NICK FURY entrar em cena, procure por até três cards chamados AGENTE S.H.I.E.L.D. Em seu deck ou recursos. Revele-os e então coloque-os em sua mão. A seguir, embaralhe seu deck, caso tenha procurado alí.
+ 
+Cada um dos personagens e suportes S.H.I.E.L.D. que você controla ganha Escudo +1.",,,,
+1026,Professor X,r,Charles Francis Xavier,p,heroi,X-Men,3,0,0,0,0,0,1,0,0,0,0,0,1,0,"Durante sua Fase de Preparação, uma vez por turno, você poderá colocar um card de seus recursos na base de seu deck. Se o fizer, coloque o card do topo do seu deck em seus recursos.",1,CONTROLAR A MENTE,CONTROLAR A MENTE incapacita em (1) o alvo. O alvo ganha Escudo -1 até o final do turno.,
+1027,Rei do Crime,sr,Wilson Fisk,p,vilão,Inimigos do Demolidor,4,0,0,1,0,0,1,0,0,0,0,0,0,0,"Quando REI DO CRIME entrar em cena, procure por até três cards chamdos CAPANGA DO REI em seu deck ou recursos, revele-os e então coloque-os em sua mão. A seguir, embaralhe o deck, caso tenha procurado alí.
+ 
+Enquanto você controlar um CAPANGA DO REI, REI DO CRIME não poderá ser alvo de ações.",,,,
+1028,Sr. Fantástico,sr,Reed Richards,p,heroi,Quarteto Fantástico,3,1,0,0,0,1,1,0,0,0,0,0,0,0,"Durante sua Fase de Preparação, uma vez por turno, você pode capacitar em (1) um dos personagens do Quarteto Fantástico que você controla.",1,ESTICAR,Descarregue um dos cards que o alvo de ESTICAR estiver carregando e então carregue o alvo com um card à sua escolha.,
+1029,Surfista Prateado,c,Norrin Radd,p,heroi,Quarteto Fantástico,5,1,0,0,1,0,0,0,0,0,0,0,0,1,,1,ARREMETER,ARREMETER causa 2 pontos de dano no alvo.,
+1030,Tempestade,c,Ororo Munroe,p,heroi,X-Men,3,1,0,0,1,0,0,0,0,0,0,0,0,1,,2,CHOQUE ELÉTRICO,"CHOQUE ELÉTRICO causa 1 ponto de dano penetrante no alvo, Incapacite em (1) o alvo.",
+1031,Thor,r,Thor Conson,p,heroi,Vingadores,6,2,0,0,0,0,0,0,0,0,1,0,0,0,,0,RECUPERAR MARTELO,"Procure por um card chamado MJOLNIR em sua mão, deck, cena ou recurso, revele-o e então carregue-o em THOR. A seguir, embaralhe seu deck caso tenha procurado alí, e descarregue cards de THOR até que ele esteja carregando um número de cards menor ou igual a sua Energia.",a
+1032,Tocha Humana,ur,Jonathan Lowell Spencer Storm,p,heroi,Quarteto Fantástico,4,1,0,0,1,0,0,0,0,0,0,0,0,1,,2,SUPERNOVA,Descarregue um card que TOCHA HUMANA estiver carregando. SUPERNOVA causa 3 pontos de dano a cada um dos outros personagens e suportes que não sejam do Quarteto Fantástico.,
+1033,Vampira,r,Anna Marie Raven,p,heroi,X-Men,5,0,0,0,0,0,0,0,0,0,0,0,0,0,,,VAMPIRA tem todos os poderes dos outros personagens que você controla.,VAMPIRA ganha Escudo +1 para cada um dos outros personagens que você controla.,
+1034,Venom,i,Eddie Brock,p,vilão,Inimigos do Homem-Aranha,5,1,1,0,0,1,0,0,0,0,0,0,0,0,,X,TIRO DE TEIA,TIRO DE TEIA causa 2 pontos de dano a cada um de X alvos. Incapacite em (1) X-1 destes alvos.,
+1035,Viúva Negra,c,Natalia Alianovna Romanova,p,heroi,S.H.I.E.L.D./Vingadores,3,1,1,1,0,0,0,0,0,0,0,0,0,0,,2,ATAQUE-SURPRESA,ATAQUE-SURPRESA causa 1 ponto de dano penetrante no alvo.,
+1036,Wolverine,ur,"James ""Logan"" Howlett",p,heroi,X-Men,4,1,1,0,0,0,0,1,0,1,0,0,0,0,,X,GARRAS,GARRAS causa X pontos de dano penetrante no alvo.,a
+1037,Esconderijo Secreto,i,,s,n/a,N/A,4,2,0,0,0,0,0,0,0,0,0,0,0,0,"Quando ESCONDERIJO SECRETO entrar em cena, escolha um vilão que você controla.
+
+Enquanto ESCONDERIJO SECRETO e o vilão escolhido estiverem em cena, o vilão escolhido não poderá ser alvo de ações.
+
+Se o vilão escolhido sair de cena, descarregue ESCONDERIJO SECRETO e coloque-o em seus recursos.",,,,
+1038,Fantasticarro,sr,,s,n/a,Quarteto Fantástico,3,1,0,0,0,0,0,0,0,0,0,0,0,0,"Cada um dos personagens do Quarteto Fantástico que você controla ganha (flying) e Escudo +1.
+ 
+Quando FANTASTICARRO entrar em cena, você pode procurar em seu deck por um card de personagens do Quarteto Fantástico, revelá-lo, colocá-lo-o em sua mão e então embaralhar o seu deck.",,,,
+1039,Mansão dos Vingadores,r,,s,n/a,Vingadores,6,2,0,0,0,0,0,0,0,0,0,0,0,0,"Cada um dos personagens Vingadores que você controla ganha (genius) e Escudo +1.
+ 
+Durante sua Fase de Preparação, uma vez por turno, você pode capacitar em (1) um dos personagens Vingadores que você controla.",,,,
+1040,Máquina Diabólica,i,,s,n/a,N/A,7,1,0,0,0,0,0,0,0,0,0,0,0,0,"MÁQUINA DIABÓLICA só pode ser colocada em cena se você controlar um vilão.
+
+Enquanto você controlar MÁQUINA DIABÓLICA, seus oponentes executam a etapa de Contagem Regressiva como se não tivessem nenhum personagem em cena.",,,,
+1041,Pássaro Negro,sr,,s,n/a,X-Men,6,2,0,0,0,0,0,0,0,0,0,0,0,0,"Cada um dos personagens X-Men que você controla ganha (energy_attack), (genius), (flying) e Escudo +2.
+ 
+Quando PÁSSARO NEGRO for destruido, ele causa 2 pontos de dano a cada um dos personagens X-Men que você controla.",,,,
+1042,Veículo de Combate S.H.I.E.L.D.,r,,s,n/a,S.H.I.E.L.D.,3,1,0,0,0,0,0,0,0,0,0,0,0,0,"Durante o combate, uma vez por turno, você pode escolher um dos personagens S.H.I.E.L.D. com (ranged_attack) que você controla. Aquele personagens pode usar a ação de MORTEIRO deste suporte durante aquele turno.
+ 
+Pode haver qualquer número de suportes chamados VEÍCULO DE COMBATE S.H.I.E.L.D. em cena.
+ 
+Cada personagens S.H.I.E.L.D. que você controla ganha Escudo +1.",,,,
+1043,"Avante, Vingadores!",ur,,c,,,,,,,,,,,,,,,,,"Enquanto você controlar o CAPITÃO AMÉRICA, cada um dos personagens Vingadores que você controla pode usar ações de qualquer um dos cards de habilidades que ele estiver carregando.",,,,
+1044,Batalha em Área Povoada,i,,c,,,,,,,,,,,,,,,,,"Quando BATALHA EM ÁREA POVOADA entrar em cena, compre um card.
+
+Sempre que um herói fosse causar dano, ele causará aquela quantidade de dano -1.",,,,
+1045,Combate ao Crime,i,,c,,,,,,,,,,,,,,,,,"Quando COMBATE AO CRIME entrar em cena, compre um card.
+
+Sempre que um herói fosse causar dano a um vilão, ele causará aquela quantidade de dano +1.",,,,
+1046,Convocar Reforços,c,,c,,,,,,,,,,,,,,,,,"Se você não tiver nenhum card em sua mão, coloque CONVOCAR REFORÇOS em seus recursos e procure em seu deck por até dois cards de personagens, revele-os e coloque-os em sua mão. Embaralhe seu deck a seguir.",,,,
+1047,Fogo Cruzado,r,,c,,,,,,,,,,,,,,,,,"Quando FOGO CRUZADO entrar em cena, compre um card.
+Ações de Antecipar não podem ter como alvos personagens com (ranged_attack).",,,,
+1048,Onda de Assaltos,i,,c,,,,,,,,,,,,,,,,,"Se você controla dois ou mais vilões, compre um card extra durante sua etapa de compra.",,,,
+1049,Onda de Pânico,c,,c,,,,,,,,,,,,,,,,,"Quando ONDA DE PÂNICO entrar em cena. Compre um card.
+
+Enquanto ONDA DE PÂNICO estiver em cena, cada jogador coloca um card a mais de seu próprio deck em seus próprios recursos durante a Contagem Regressiva daquele turno do jogador. (Se um jogador possuir algum personagem em cena, mesmo assim ele deverá colocar um card do deck nos recursos durante sua própria Contagem Regressiva)",,,,
+1050,Retirada Estratégica,c,,c,,,,,,,,,,,,,,,,,"Quando RETIRADA ESTRATÉGICA entrar em cena, descarregue um personagens ou suporte que você controla e devolva-o para sua mão.",,,,
+1051,Reunião de Intelectos,c,,c,,,,,,,,,,,,,,,,,"Quando REUNIÃO DE INTELECTOS entrar em cena, compre um card.
+
+Quando REUNIÃO DE INTELECTOS for substituído por um outro cenário, cada jogador compra um card para cada um dos personagens com (genius) que ele controlar.",,,,
+1052,Sem Trégua,c,,c,,,,,,,,,,,,,,,,," Quando SEM TRÉGUA entrar em cena, escolha um personagem herói ou vilão que você controla e um personagem herói ou vilão que você não controla.
+
+Enquanto SEM TRÉGUA e ambos os personagens escolhidos estivem em cena, os personagens escolhidos só podem ser alvos das ações um do outro.
+
+Se um dos personagens escolhidos sair de cena, coloque SEM TRÉGUA nos recursos de seu dono.",,,,
+1053,Sucessão de Eventos,c,,c,,,,,,,,,,,,,,,,,"Quando SUCESSÃO DE EVENTOS entrar em cena, compre um card.
+
+Cada jogador compra um card extra durante sua respectiva etapa de compra.",,,,
+1054,Super Plano de Dominação,i,,c,,,,,,,,,,,,,,,,,"Quando SUPER PLANO DE DOMINAÇÃO entrar em cena, compre um card.
+
+Cada vilão ganha (genius) e Escudo +1.",,,,
+1055,Treinamento Mental,r,,c,,,,,,,,,,,,,,,,,"Durante sua Fase de Preparação, uma vez por turno, você pode capacitar em (1) um dos personagens com (telepathy) que você controla.",,,,
+1056,Treino na Sala de Perigo,i,,c,,,,,,,,,,,,,,,,,"Durante cada Fase de Preparação, uma vez por turno, você pode escolher um card que um personagem ou suporte X-Men que você controla estiver carregando e permutá-lo por outro card que outro personagem ou suporte X-Men que você controla estiver carregando.",,,,
+1057,Esquiva,c,,h,,,,,1,0,0,0,0,0,0,0,0,0,0,0,,1,ESQUIVA,Este personagens ganha Escudo +3 até o final do turno.,a
+1058,Golpe Desnorteante,i,,h,,,,,1,0,0,0,0,0,0,0,0,0,0,0,,1,GOLPE DESNORTEANTE,GOLPE DESNORTEANTE causa 1 ponto de dano no alvo. Descarregue um card que o alvo estiver carregando e então carregue o alvo com um card a sua escolha.,
+1059,Porrete,c,,h,,,,,1,0,0,0,0,0,0,0,0,0,0,0,O personagens que estiver carregando PORRETE ganha (agility).,1,PORRETE,"PORRETE causa 1 ponto de dano no alvo ou PORRETE causa 2 pontos de dano no alvo, caso o personagem que usar PORRETE seja um vilão.",
+1060,Saltitar,c,,h,,,,,1,0,0,0,0,0,0,0,0,0,0,0,,1,SALTITAR,Escolha até dois personagens alvos diferentes. SALTITAR causa 1 ponto de dano a cada um dos alvos.,
+1061,Escudo do Capitão América,sr,,h,,,,,0,1,0,0,0,0,0,0,0,0,0,0,"Item único. (Só pode haver um no deck)
+
+Este personagem ganha Escudo +1 ou ganha Escudo +2, caso seja CAPITÃO AMÉRICA.",X,ARREMESSO DE ESCUDO,Descarregue ESCUDO DO CAPITÃO AMÉRICA. ESCUDO DO CAPITÃO AMÉRICA causa 2 pontos de dano a cada um de até X alvos. Apenas CAPITÃO AMÉRICA pode usar esta ação.,
+1062,Franco-Atirador,i,,h,,,,,0,1,0,0,0,0,0,0,0,0,0,0,,1,FRANCO-ATIRADOR,FRANCO-ATIRADOR causa 1 ponto de dano penetrante no alvo.,
+1063,Granada de Mão,i,,h,,,,,0,1,0,0,0,0,0,0,0,0,0,0,O personagem que estiver carregando GRANADA DE MÃO ganha (ranged_attack).,2,GRANADA DE MÃO,Descarregue GRANADA DE MÃO. GRANADA DE MÃO causa 4 pontos de dano no alvo.,
+1064,Jogar Objeto,c,,h,,,,,0,1,0,0,0,0,0,0,0,0,0,0,O personagem que estiver carregando JOGAR OBJETO ganha (ranged_attack).,1,JOGAR OBJETO,JOGAR OBJETO causa 1 pontos de dano no alvo.,
+1065,Mjölnir,sr,,h,,,,,0,1,0,0,0,0,0,0,0,0,0,0,"Item único. (Só pode haver um no deck)
+
+MJÖLNIR só pode ser carregado por THOR.
+
+Este personagens ganha Escudo +1, (ranged_attack), (energy_attack) e (flying).",1,ARREMESSO DE MARTELO,Descarregue MJÖLNIR. MJÖLNIR causa 4 pontos de dano no alvo. Apenas THOR pode usar esta ação.,
+1066,Tiro Certeiro,c,,h,,,,,0,1,0,0,0,0,0,0,0,0,0,0,,1,TIRO CERTEIRO,TIRO CERTEIRO causa 2 pontos de dano no alvo.,
+1067,Disparo Sequencial,c,,h,,,,,0,0,1,0,0,0,0,0,0,0,0,0,,2,DISPARO SEQUENCIAL,Escolha até três alvos diferentes. DISPARO SEQUENCIAL causa 1 ponto de dano a cada um dos alvos.,
+1068,Onda de Energia,i,,h,,,,,0,0,1,0,0,0,0,0,0,0,0,0,,2,ONDA DE ENERGIA,Descarregue ONDA DE ENERGIA. ONDA DE ENERGIA causa 2 pontos de dano penetrante a cada um dos outros personagens.,
+1069,Raio de Força,i,,h,,,,,0,0,1,0,0,0,0,0,0,0,0,0,,2,RAIO DE FORÇA,RAIO DE FORÇA causa 3 pontos de dano penetrante no alvo.,
+1070,Rajada,c,,h,,,,,0,0,1,0,0,0,0,0,0,0,0,0,,1,RAJADA,RAJADA causa 2 pontos de dano no alvo.,
+1071,Arrancar das Mãos,c,,h,,,,,0,0,0,1,0,0,0,0,0,0,0,0,,1,ARRANCAR DAS MÃOS,Escolha um oponente como alvo de ARRANCAR DAS MÃOS. O oponente escolhido coloca um card de sua própria mão no topo de seu próprio deck.,
+1072,Atrasar,i,,h,,,,,0,0,0,1,0,0,0,0,0,0,0,0,,1,ATRASAR," Carregue um card neste personagem, descarregue ATRASAR: Escolha até dois personagens alvos diferentes. Incapacite em (1) cada um dos alvos de ATRASAR.",a
+1073,Cegar,i,,h,,,,,0,0,0,1,0,0,0,0,0,0,0,0,,1,CEGAR,O alvo de CEGAR ganha Escudo -1. Incapacite em (1) o alvo.,
+1074,Cela Elástica,c,,h,,,,,0,0,0,1,0,0,0,0,0,0,0,0,,2,CELA ELÁSTICA,Escolha um personagem como alvo de CELA ELÁSTICA. Descarregue os cards que este personagem e o alvo de CELA ELÁSTICA estiverem carregando e embaralhe-os nos decks de seus donos.,
+1075,Chantagem,c,,h,,,,,0,0,0,0,1,0,0,0,0,0,0,0,"Quando CHANTAGEM for carregado, se o personagm que estiver carregando CHANTAGEM for um vilão e tiver (genius), escolha um herói que você não controla.
+
+Esquanto CHANTAGEM e o herói escolhido estiverem em cena, o personagem que estiver carregando CHANTAGEM não pode ser alvo das ações daquele herói.",,,,
+1076,Invenção,r,,h,,,,,0,0,0,0,1,0,0,0,0,0,0,0,,1,INVENÇÃO,Compre três cards.,
+1077,Pensar Rápido,ur,,h,,,,,0,0,0,0,1,0,0,0,0,0,0,0,Cada jogador pode usar uma única ação de PENSAR RÁPIDO por turno.,0,PENSAR RÁPIDO,Compre um card.,a
+1078,Rede de Espionagem,c,,h,,,,,0,0,0,0,1,0,0,0,0,0,0,0,,0,REDE DE ESPIONAGEM,Olhe os cinco cards do topo de um deck e então recoloque aqueles cards de volta no topo daquele deck em qualquer ordem.,
+1079,Contra-Ataque Afiado,r,,h,,,,,0,0,0,0,0,1,0,0,0,0,0,0,"Se este personagem tiver (blades) e for alvo de uma ação que cause dano, ele causa 1 ponto de dano penetrante no personagem que tiver usando aquela ação.",,,,
+1080,Rasgar,r,,h,,,,,0,0,0,0,0,1,0,0,0,0,0,0,,1,RASGAR,RASGAR causa 1 ponto de dano penetrante no alvo.,a
+1081,Sabre,c,,h,,,,,0,0,0,0,0,1,0,0,0,0,0,0,O personagem que estiver carregando SABRE ganha (blades).,1,SABRE,SABRE causa 1 ponto de dano no alvo.,
+1082,Sucatear,c,,h,,,,,0,0,0,0,0,1,0,0,0,0,0,0,,1,SUCATEAR,Escolha um suporte como alvo de SUCATEAR. SUCATEAR causa 3 pontos de dano penetrante no alvo.,
+1083,Cicatrizar,i,,h,,,,,0,0,0,0,0,0,0,1,0,0,0,0,"Enquanto este card estiver em seus recursos, os personagens com (regeneration) que você controla podem usar a ação de CICATRIZAR.",0,CICATRIZAR,"Escolha um card chamado Cicatrizar de seus recursos e carregue-o neste personagem. A seguir, descarregue cards deste personagen até que ele esteja carregando um número de cards menor ou igual à sua Energia.",a
+1084,Cura Rápida,c,,h,,,,,0,0,0,0,0,0,0,1,0,0,0,0,,0,CURA RÁPIDA,"Descarregue CURA RÁPIDA. Carregue este personagem com até três outros cards. A seguir, descarregue cards deste personagem até que ele esteja carregando um número de cards menor ou igual à sua Energia.",
+1085,Arremesso Especial,r,,h,,,,,0,0,0,0,0,0,0,0,1,0,0,0,,1,ARREMESSO ESPECIAL,Escolha um outro personagens herói ou vilão que você controla. Aquele personagem causará +3 pontos de dano em um único de seus alvos ao usar uma ação que cause dano durante este turno.,
+1086,Onda de Choque,i,,h,,,,,0,0,0,0,0,0,0,0,1,0,0,0,,1,ONDA DE CHOQUE,Descarregue ONDA DE CHOQUE. ONDA DE CHOQUE causa 3 pontos de dano a cada um dos outros personagens e a cada um dos suportes.,
+1087,Rocha,i,,h,,,,,0,0,0,0,0,0,0,0,1,0,0,0,,2,ROCHA,Descarregue ROCHA. ROCHA causa 7 pontos de dano no alvo.,
+1088,Super Soco,c,,h,,,,,0,0,0,0,0,0,0,0,1,0,0,0,,2,SUPER SOCO,SUPER SOCO causa 4 pontos de dano no alvo.,
+1089,Desatomizar,c,,h,,,,,0,0,0,0,0,0,0,0,0,1,0,0,,2,DESATOMIZAR,Escolha um oponente como alvo de DESATOMIZAR. A próxima etapa de Contagem Regressiva daquele oponente é executada como se ele não tivesse nenhum personagem em cena.,
+1090,Despedaçar a Realidade,i,,h,,,,,0,0,0,0,0,0,0,0,0,1,0,0,,2,DESPEDAÇAR A REALIDADE,Descarregue DESPEDAÇAR A REALIDADE. Jogue um turno extra após este turno. O personagem que tiver usado a ação de DESPEDAÇAR A REALIDADE não pode ser capacitado em sua próxima Fase de Preparação.,
+1091,Poltergeist,i,,h,,,,,0,0,0,0,0,0,0,0,0,1,0,0,,1,POLTERGEIST,Escolha um jogador como alvo de POLTERGEIST. Coloque os cinco cards do topo do deck daquele jogador nos recursos daquele jogador.,
+1092,Alucinação,c,,h,,,,,0,0,0,0,0,0,0,0,0,0,1,0,,1,ALUCINAÇÃO,O alvo de ALUCINAÇÃO ganha Escudo 0 até o final do turno.,
+1093,Onda de Tranquilidade,i,,h,,,,,0,0,0,0,0,0,0,0,0,0,1,0,,0,ONDA DE TRANQUILIDADE,"Se houver um cenário em cena, coloque-o nos recursos de seu dono e compre um card.",
+1094,Paralisar,c,,h,,,,,0,0,0,0,0,0,0,0,0,0,1,0,,2,PARALISAR,Escolha um oponente como alvo de PARALISAR. Incapacite em (1) cada um dos personagens que aquele oponente controla.,
+1095,Carregar para Longe,c,,h,,,,,0,0,0,0,0,0,0,0,0,0,0,1,,2,CARREGAR PARA LONGE,"Escolha um alvo para CARREGAR PARA LONGE. Embaralhe o alvo, este personagem e todos os cards que eles estiverem carregando nos decks de seus donos. ",
+1096,Circundar,r,,h,,,,,0,0,0,0,0,0,0,0,0,0,0,1,,1,CIRCUNDAR,Incapacite em (1) o alvo de CIRCUNDAR.,a
+1097,Flutuar,i,,h,,,,,0,0,0,0,0,0,0,0,0,0,0,1,,0,FLUTUAR,"Escolha um alvo para FLUTUAR. Até o final do turno, sempre que o alvo fosse causar dano neste personagem, ele causará aquela quantidade de dano -1.",a
+1098,Buscar Refúgio,c,,h,,,,,0,0,0,0,0,0,0,0,0,0,0,0,,1,BUSCAR REFÚGIO,"Carregue um card neste personagem, descarregue BUSCAR REFÚGIO: Este personagens ganha Escudo +3 até o final do turno.",a
+1099,Procurar indícios,c,,h,,,,,0,0,0,0,0,0,0,0,0,0,0,0,,1,PROCURAR INDÍCIOS,"Carregue um card neste personagem, descarregue PROCURAR INDÍCIOS. Compre um card.",
+1100,Proteção,c,,h,,,,,0,0,0,0,0,0,0,0,0,0,0,0,Este personagem ganha Escudo +1.,,,,

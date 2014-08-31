@@ -15,13 +15,43 @@
       list.cards = list.allCards.filter(function(card){
         return card.name.match(RegExp('.*' + list.filter.name + '.*', 'ig'))
           &&
-          card.alter_ego.match(RegExp('.*' + list.filter.alter_ego + '.*', 'ig'))
+          (card.alter_ego || "").match(RegExp('.*' + list.filter.alter_ego + '.*', 'ig'))
           &&
-          card.faction.match(RegExp('.*' + list.filter.faction + '.*', 'ig'))
+          (card.faction || "").match(RegExp('.*' + list.filter.faction + '.*', 'ig'))
           &&
-          (list.powerFilterOn() ? list.powerFilter(card) : true);
+          (list.powerFilterOn() ? list.powerFilter(card) : true)
+          &&
+          (list.rarityFilterOn() ? list.rarityFilter(card) : true);
       });
     };
+
+    this.rarityFilterOn = function(){
+      return this.filter.ultra_rare == true
+        ||
+        this.filter.super_rare == true
+        ||
+        this.filter.rare == true
+        ||
+        this.filter.incomum == true
+        ||
+        this.filter.comum == true
+    }
+
+    this.rarityFilter = function(card){
+      return this.compareRarity(list.filter.ultra_rare, card.rarity, "ur")
+        ||
+        this.compareRarity(list.filter.super_rare, card.rarity, "sr")
+        ||
+        this.compareRarity(list.filter.rare, card.rarity, "r")
+        ||
+        this.compareRarity(list.filter.incomum, card.rarity, "i")
+        ||
+        this.compareRarity(list.filter.comum, card.rarity, "c");
+    }
+
+    this.compareRarity = function(filterValue, cardValue, rarity){
+      return filterValue == true ? (cardValue || "").toString() == rarity : false
+    }
 
     this.powerFilterOn = function(){
       return this.filter.elasticity == "true"
@@ -76,7 +106,7 @@
     }
 
     this.comparePower = function(filterValue, cardValue){
-      return filterValue == "true" ? cardValue.toString() == filterValue : true
+      return filterValue == "true" ? (cardValue || "").toString() == filterValue : true
     }
 
     $http.get('/api/cards').success(function(data){

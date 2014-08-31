@@ -1,0 +1,79 @@
+id,name,rarity,alter_ego,card_type,alignment,faction,energy,shield,agility,ranged_attack,energy_attack,elasticity,genius,blades,magic,regeneration,super_strength,telekinesis,telepathy,flying,text,hability_cost,hability_name,hability_text,hability_type
+2001,Abominável,c,Emil Blonsky,p,vilão,Inimigos do Hulk,8,2,0,0,0,0,0,0,0,1,1,0,0,0,,1,SOCO DEMOLIDOR,SOCO DEMOLIDOR causa 4 pontos de dano no alvo.,
+2002,Agente S.H.I.E.L.D.,c,n/a,p,heroi,S.H.I.E.L.D.,1,1,0,1,0,0,0,0,0,0,0,0,0,0,Pode haver qualquer número de personagens chamados AGENTE S.H.I.E.L.D em cena.,2,CONSERTAR EQUIPAMENTO,Descarregue os cards que AGENTE S.H.I.E.L.D. estiver carregando: Embaralhe AGENTE S.H.I.E.L.D. em seu deck. Coloque um card chamado VEÍCULO DE COMBATE S.H.I.E.L.D. de seus recursos em sua mão.,
+2003,Arcade,r,n/a,p,vilão,Inimigos dos X-Men,3,1,0,0,0,0,1,0,0,0,0,0,0,0,,1,BRINCADEIRA MORTAL,"Escolha um card de cenário em seus recursos e coloque-o em cena. No final do turno, se aquele cenário ainda estiver em cena, coloque-o na base de seu deck. (Você pode executar esta ação mesmo que um cenário já tenha sido colocado em cena neste turno).",
+2004,Blob,c,"Frederick J. ""Fred"" Dukes",p,vilão,Irmandade de Mutantes,7,1,0,0,0,0,0,0,0,0,1,0,0,0,A primeira ação que cause dano em BLOB em um turno causará 0 pontos de dano em BLOB.,1,ESTAPEAR,ESTAPEAR causa 2 pontos de dano no alvo.,
+2005,Bruce Banner,i,Robert Bruce Banner,p,n/a,N/A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"BRUCE BANNER só pode ser colocado em cena se HULK não estiver em cena.
+ 
+HULK não pode ser colocado em cena.
+ 
+Se BRUCE BANNER for nocauteado por uma ação que cause dano, você pode procurar por um card chamado HULK em seu deck, mão ou recurso, revelá-lo e colocá-lo em cena com até quatro  cards de seus recursos anexados a ele. A seguir, embaralhe seu deck, caso tenha procura ali.",,,,
+2006,Bumerangue,c,"Frederick ""Fred"" Myers",p,vilão,Mestres do Terror,3,1,0,1,0,0,0,0,0,0,0,0,0,1,,1,ARSENAL DE BUMERANGUES,"ARSENAL DE BUMERANGUES  causa 1 ponto de dano penetrante no alvo, ou ARSENAL DE BUMERANGUES causa 2 pontos de dano no alvo.",
+2007,Cable,sr,Nathan Christopher Charles Summers,p,heroi,X-Men,4,1,0,1,0,0,0,0,0,0,0,1,1,0,CABLE pode usar ações de (ranged_attack) como ações de antecipar. O custo de incapacitação de cada ação usada dessa forma será (2). (Todos os demais custos de ações usadas dessa forma devem ser pagos normalmente).,1,TIRO PRECISO,TIRO PRECISO causa 1 ponto de dano no alvo.,a
+2008,Capanga do Rei,c,n/a,p,vilão,Inimigos do Demolidor,1,1,0,1,0,0,0,0,0,0,0,0,0,0,Pode haver qualquer número de personagens chamados CAPANGA DO REI em cena.,2,PANCADARIA,PANCADARIA causa 2 pontos de dano no alvo.,
+2009,Carnificina,ur,Cletus Kasady,p,vilão,Inimigos do Homem-Aranha,5,1,1,0,0,1,0,0,0,1,0,0,0,0,,1,NAVALHAS DE SANGUE,NAVALHAS DE SANGUE  causa 1 ponto de dano penetrante no alvo.,a
+2010,Cavaleiro da Lua,c,Marc Spector,p,heroi,Defensores,4,1,1,1,0,0,0,0,0,0,0,0,0,0,,1,BUMERANGUE DE MARFIM,BUMERANGUE DE MARFIM causa 1 ponto de dano no alvo. O CAVLEIRO DA LUA  pode usar esta ação mais de uma vez por turno,
+2011,Ciclope,ur,Scott Summers,p,heroi,X-Men,4,1,0,0,1,0,0,0,0,0,0,0,0,0,,2,COORDENAR AÇÕES,Escolha um personagem X-Men que você controla como alvo de COORDENAR AÇÕES. Aquele personagem pode usar ações como se fossem ações de antecipar até o final do turno.,a
+2012,Deadpool,i,Wade Winston Wilson,p,heroi,N/A,4,1,1,0,0,0,0,1,0,1,0,0,0,0,Você pode colocar este card em cena diretamente de seus recursos (desde que possa pagar seus custos).,2,MERCENÁRIO TAGARELA,Incapacite em (1) o alvo de MERCENÁRIO TAGARELA.,a
+2013,Destinobô,c,n/a,p,vilão,Inimigos do Quarteto Fantástico,3,1,0,0,1,0,0,0,0,0,1,0,0,0,"Pode haver qualquer número de personagens chamado DESTINOBÔ em cena.
+ 
+Enquanto você controlar o DR. DESTINO, uma vez por turno, durante sua Fase de Preparação, você pode procurar por um card chamado DESTINOBÔ em seu deck ou recursos, revelá-lo e colocá-lo em sua mão. A seguir, embaralhe seu deck, caso tenha procurado ali.",1,AÇÃO COORDENADA,"AÇÃO COORDENADA causa 1 ponto de dano no alvo, ou  AÇÃO COORDENADA  causa 3 pontos de dano no alvo se DR. DESTINO estiver em cena sob seu controle.",
+2014,Electro,sr,Max Dillon,p,vilão,Sexteto Sinistro,4,1,0,0,1,0,0,0,0,0,0,0,0,1,ELECTRO pode usar ações de (energy_attack) no turno em que entrar em cena.,1,DESCARGA ELÉTRICA,DESCARGA ELÉTRICA causa 1 ponto de dano no alvo.,a
+2015,Forge,sr,Jonathon Silvercloud,,heroi,X-Men,4,1,0,0,0,0,1,0,0,0,0,1,0,0,"Se você fosse colocar um suporte em cena, você pode revelar um número de cards do topo de seu deck igual ao valor de Energia Inicial indicado naquele suporte. Se o fizer, coloque aquele suporte em cena carregando os cards revelados de seu deck desta forma. Você só pode colocar um suporte em cena desta forma por turno e durante o seu próprio turno.",,,,
+2016,Gambit,r,Remi Lebeau,p,heroi,X-Men,4,1,0,1,0,0,0,0,0,0,0,0,0,0,,1,ARREMESSO DE CARTAS,ARREMESSO DE CARTAS causa X pontos de dano distribuídos entre qualquer número de alvos. X é igual ao número de cards que GAMBIT estiver carregando.,
+2017,General Ross,i,"Thaddeus E. ""Thunderbolt"" Ross",p,n/a,N/A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"GENETAL ROSS ganha Escudo +1 para cada herói que você controla.
+ 
+Enquanto GENETAL ROSS e HULK estiverem em cena, HULK deverá ser o alvo de todas as ações que os outros heróis em cena utilizarem. (Isso vale para seus próprios heróis).",,,,
+2018,Groxo,c,Mortimer Tonybee,p,vilão,Irmandade de Mutantes,3,1,1,0,0,1,0,0,0,0,0,0,0,0,,1,LÍNGUA DO SAPO,LÍNGUA DO SAPO  causa 1 ponto de dano no alvo. O alvo ganha Escudo -1 até o final do turno.,a
+2019,Guerreiro Skrull,c,n/a,p,n/a,SKRULLS,4,1,0,1,0,0,0,0,0,0,1,0,0,0,"Pode haver qualquer número de personagens chamados GUERREIRO SKRULL em cena.
+ 
+Se você controlar GUERREIRO SKRULL desde o início do turno, durante sua Fase de Preparação, você pode descarregar GUERREIRO SKRULL e colocá-lo em seus recursos. Se o fizer, você pode colocar em cena um card de personagem com o mesmo nome de um personagem que seu oponente controla.",1,INVESTIDA SKRULL,INVESTIDA SKRULL causa 2 pontos de dano no alvo.,
+2020,Homem de Ferro,r,"Anthony Edward ""Tony"" Stark",p,heroi,Vingadores,4,2,0,1,0,0,1,0,0,0,1,0,0,1,,1,MACH 6,HOMEM DE FERRO ganha escudo 4 até o final do turno.,a
+2021,Homem-Aranha,r,Peter Benjamin Parker,p,heroi,Aliados do Homem-Aranha,4,1,1,0,0,1,0,0,0,0,0,0,0,0,,1,JATO DE TEIA,JATO DE TEIA causa 1+X pontos de dano no alvo. X é igual ao número de cards de habilidade de (elasticity) que HOMEM-ARANHA estiver carregando.,
+2022,Homem-Areia,i,William Baker,p,vilão,Sexteto Sinistro,5,2,0,0,0,1,0,0,0,0,1,0,0,0,,1,MAÇA DE AREIA,MAÇA DE AREIA causa 3 pontos de dano no alvo.,
+2023,Hulk,i,Robert Bruce Banner,p,heroi,Vingadores,7,3,0,0,0,0,0,0,0,1,1,0,0,0,,2,CÓLERA ENLOUQUECIDA,CÓLERA ENLOUQUECIDA causa 9 pontos de dano em um alvo controlado por um oponente. Aquele jogador escolhe um card de personagem nos recusros do controlador de HULK e o coloca em seus próprios prêmios.,
+2024,J. J. Jameson,i,John Jonah Jameson Jr.,p,n/a,N/A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"J. J. JAMESON ganha Escudo +1 para cada herói que você controla.
+ 
+J. J. JAMESON deve ser o alvo de todas as ações que os vilões que você não controla usarem.",,,,
+2025,Kraven - O Caçador,r,Sergei Kravinoff,p,vilão,Sexteto Sinistro,4,1,1,1,0,0,0,0,0,0,0,0,0,0,"Quando KRAVEN - O CAÇADOR entrar em cena, escolha um personagem em cena. Sempre que uma ação de KRAVEN - O CAÇADOR fosse causar dano àquele personagem, ele causa +4 pontos de dano àquele personagem.",1,ASSALTO DO CAÇADOR,ASSALTO DO CAÇADOR causa 2 pontos de dano no alvo.,
+2026,Lagarto,ur,"Dr. Curtis ""Curt"" Connors",p,vilão,Inimigos do Homem-Aranha,5,1,1,0,0,0,1,0,0,1,0,0,0,0,"Se LAGARTO estiver carregando um card de habilidade de (genius), ao usar a ação de EXPERIÊNCIA BIOLÓGICA, aplique todos os seus efeitos ao invés de apenas um.",1,EXPERIÊNCIA BIOLÓGICA,"EXPERIÊNCIA BIOLÓGICA causa 1 ponto de dano no alvo, ou compre 1 card, ou escolha um oponente como alvo de  EXPERIÊNCIA BIOLÓGICA. O oponente escolhido descarta 1 card.",
+2027,Magneto,sr,Erik Magnus Lehnsherr,p,vilão,Irmandade de Mutantes,5,2,0,0,0,0,1,0,0,0,0,1,0,1,"MAGNETO não pode ser alvo de ações de (telepathy).
+ 
+Os personagens controlados por seus oponentes não podem usar ações de (blades).",,,,
+2028,Máquina de Combate,r,"James Rupert ""Rhodey"" Rhodes",p,heroi,Aliados do Homem de Ferro,5,2,0,1,1,0,0,0,0,0,1,0,0,1,,2,CHUVA DE MÍSSEIS,CHUVA DE MÍSSEIS causa 2 pontos de dano a cada personagem que você não controla ou CHUVA DE MÍSSEIS causa 3 pontos de dano a cada suporte que você não controla.,
+2029,Mercúrio,i,Pietro Maximoff,p,vilão,Irmandade de Mutantes,3,1,1,0,0,0,0,0,0,0,0,0,0,0,,1,SUPER VELOCIDADE,SUPER VELOCIDADE causa 1 ponto de dano no alvo. Você pode usar esta ação mais de uma vez por turno.,ai
+2030,Mulher-Hulk,c,Jennifer Susan Walters,p,heroi,Quarteto Fantástico,5,2,0,0,0,0,0,0,0,0,1,0,0,0,,1,SEQUÊNCIA DE SOCOS,Escolha até dois alvos diferentes. SEQUÊNCIA DE SOCOS causa 2 pontos de dano a cada um dos alvos.,
+2031,Ninja do Tentáculo,i,n/a,p,vilão,Tentáculo,2,1,1,0,0,0,0,1,0,0,0,0,0,0,"Pode haver qualquer número de personagens chamados NINJA DO TENTÁCULO em cena.
+ 
+Se você controlar dois ou mais personagens chamados  NINJA DO TENTÁCULO, o dano de EMBOSCADA será penetrante.
+ 
+Se você controlar três ou mais personagens chamados NINJA DO TENTÁCULO, a ação de EMBOSCADA pode ser usada como se fosse uma ação de antecipar.",1,EMBOSCADA,EMBOSCADA causa 2 pontos de dano no alvo.,
+2032,Pepper Potts,i,"Virginia ""Pepper"" Pottshogan",p,n/a,Aliados do Homem de Ferro,1,0,0,0,0,0,1,0,0,0,0,0,0,0,"PEPPER POTTS ganha Escudo +2 enquanto você controlar HOMEM DE FERRO.
+ 
+HOMEM DE FERRO pode usar ações de (genius) como se fossem ações de antecipar.",,,,
+2033,Professor X,r,Charles Francis Xavier,p,heroi,X-Men,3,0,0,0,0,0,1,0,0,0,0,0,1,0,,1,REVIGORAR MENTE,"Escolha um personagem que você controla como alvo de REVIGORAR MENTE. Um oponente escolhe um card que aquele personagem esteja carregando e o coloca na base do deck de seu dono, e então, se possível, carrega um card dos recursos daquele jogador naquele personagem. Após aquele personagem ter usado uma ação, neste turno, capacite-o a (2).",a
+2034,Psylocke,c,"Elisabeth ""Betsy"" Braddock",p,heroi,X-Men,4,1,1,0,0,0,0,1,0,0,0,0,1,0,,2,LÂMINAS PSÍQUICAS,LÂMINAS PSÍQUICAS causa 2 pontos de dano no alvo.,
+2035,Rino,r,Aleksei Mikhailovich Sytsevich,p,vilão,Inimigos do Homem-Aranha,5,2,0,0,0,0,0,0,0,0,1,0,0,0,"Se RINO nocautear um personagem ao usar a ação ATROPELAR, capacite RINO em (1). RINO  poderá usar a ação ATROPELAR novamente neste turno.",1,ATROPELAR,ATROPELAR causa 2 pontos de dano no alvo.,
+2036,Rocket Raccoon,c,n/a,p,heroi,Guardiões da Galáxia,3,1,1,1,0,0,0,0,0,0,0,0,0,0,,0,PISTOLA LASER,PISTOLA LASER causa 1 ponto de dano no alvo.,
+2037,Serpente da Lua,sr,Heather Douglas,p,heroi,Defensores/Guardiões da Galáxia,4,1,1,0,0,0,0,0,0,0,0,1,1,0,"Quando SERPENTE DA LUA entrar em cena, escolha dois personagens que um oponente controla e então permute um dos cards que o primeiro personagem estiver carregando por um dos cards que o segundo personagem estiver carregando.",1,CORPO-A-CORPO,CORPO-A-CORPO causa 2 pontos de dano no alvo.,
+2038,Toupeira,c,Harvey Rupert Elder ,p,vilão,Inimigos do Quarteto Fantástico,4,1,0,0,0,0,1,0,0,0,0,0,0,0,,1,ESCAVAÇÃO,ESCAVAÇÃO causa 1 ponto de dano no alvo. Você pode colocar 1 card dos recursos de um jogador na base do deck daquele jogador.,
+2039,Wolverine,c,"James ""Logan"" Howlett",p,heroi,X-Men,4,1,1,0,0,0,0,1,0,1,0,0,0,0,"Durante sua Fase de Preparação, uma vez por turno, você pode carregar um card de habilidade de (regeneration) de seus recursos em WOLVERINE.",1,DESTROÇAR,DESTROÇAR  causa 1 ponto de dano no personagem alvo ou DESTROÇAR causa 3 pontos de dano no suporte alvo.,
+2040,Amplificador Mental,sr,,s,n/a,N/A,5,1,0,0,0,0,0,0,0,0,0,0,0,0,"Quando AMPLIFICADOR MENTAL entrar em cena, escolha um vilão que você controla.
+ 
+Enquanto AMPLIFICADOR MENTAL e o vilão escolhido estiverem em cena, o vilão escolhido ganha (telekinesis) e (telepathy) e cada um dos outros personagens em cena perde (telekinesis) e (telepathy).",,,,
+2041,Canhão Automático,i,,s,n/a,N/A,3,1,0,0,0,0,0,0,0,0,0,0,0,0,"Durante sua Fase de Preparação, uma vez por turno, você pode fazer com que CANHÃO AUTOMÁTICO cause 1 ponto de dano em um personagem ou suporte.",,,,
+2042,Cérebro,r,,s,n/a,X-Men,4,2,0,0,0,0,0,0,0,0,0,0,0,0,Cada personagem X-Men com (telepathy) que você controla ganha a ação de ISOLAR MUTANTES.,0,ISOLAR MUTANTES,"Procure em seu deck por um card de personagem X-Men ou Irmandade de Mutantes, revele-o e coloque-o em sua mão. Embaralhe seu deck a seguir.",
+2043,Interceptador de Voz,c,,s,n/a,S.H.I.E.L.D.,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Durante dua Fase de Preparação, uma vez por turno, você pode incapacitar em (1) um personagem S.H.I.E.L.D. que você controla. Se o fizer, compre um card.",,,,
+2044,Máquina de Bloqueio Mental,sr,,s,n/a,N/A,4,2,0,0,0,0,0,0,0,0,0,0,0,0,Todas as ações com custo (0) e (1) têm custo (2). (Ações de custo (X) só poderão ser usadas pagando custo (2)).,,,,
+2045,Portal para o Microverso,r,,s,n/a,N/A,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"O valor de Escudo de todos os personagens em cena torna-se 0. 
+ 
+Todos os efeitos que modificariam o valor de Escudo de personagens em cena têm valor +0.",,,,
+2046,Toupeira Mecânica,i,,s,n/a,N/A,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"Durante sua Fase de Preparação, uma vez por turno, você pode descarregar um card de TOUPEIRA MECÂNICA. Se o fizer, coloque um card dos recursos de um oponente na base do deck daquele jogador.",,,,
+2047,Veículo de Combate S.H.I.E.L.D.,i,,s,n/a,S.H.I.E.L.D.,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"Pode haver qualquer número de suportes chamados VEÍCULO DE COMBATE S.H.I.E.L.D. em cena.
+ 
+Durante a Fase de Combate, uma vez por turno, você pode escolher um dos personagens S.H.I.E.L.D. com (ranged_attack) que você controla. Aquele personagem pode usar a ação de CANHÃO DE REPETIÇÃO deste suporte durante aquele turno.",1,CANHÃO DE REPETIÇÃO,CANHÃO DE REPETIÇÃO causa 2 pontos de dano no alvo. Este personagem pode usar a ação de CANHÃO DE REPETIÇÃO mais de uma vez por turno.,
+2048,À Espreita,i,,c,,,,,,,,,,,,,,,,,"Quando À ESPREITA sair de cena, se À ESPREITA tiver sido substituído por um novo cenário, o jogador que tiver colocado o novo cenário em cena escolhe um oponente. O oponente escolhido compra um card.
+
+Sempre que um vilão fosse causar dano, ele causará aquela quantidade de dano +1",,,,
+2049,Ataque Surpresa,i,,c,,,,,,,,,,,,,,,,,"Sempre que você colocar um personagem em cena, você pode capacitá-lo em (1).",,,,
+2050,Busca e Apreensão,i,,c,,,,,,,,,,,,,,,,,"Sempre que um card de suporte em cena controlado por um de seus oponentes for colocado nos recursos daquele jogador, você pode colocar aquele card em seus prêmios. (Cada suporte em seus prêmios valerá uma quantidade de pontos igual à sua Energia Inicial até o final da partida).",,,,

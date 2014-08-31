@@ -1,0 +1,89 @@
+<div class="container">
+  <h1> Battle Scenes Database </h1>
+
+  <div class="row">
+
+    <div class="list" ng-controller="ListController as list">
+      <div class="col-md-4">
+
+        <div class="menu">
+
+          <form role="form">
+
+            <div class="form-group">
+              <input name="name" type="text" class="form-control" placeholder="Nome" ng-model="list.filter.name" ng-change="list.filterCards()"></input>
+            </div>
+
+            <div class="form-group">
+              <input name="alter_ego" type="text" class="form-control" placeholder="Alter Ego" ng-model="list.filter.alter_ego" ng-change="list.filterCards()"></input>
+            </div>
+
+            <div class="form-group">
+              <input name="afiliação" type="text" class="form-control" placeholder="Afiliação" ng-model="list.filter.faction" ng-change="list.filterCards()"></input>
+            </div>
+
+            <div class="form-group">
+              <%= render partial: "power_filter" %>
+            </div>
+
+            <div class="form-group">
+              <%= render partial: "rarity_filter" %>
+            </div>
+
+          </form>
+
+        </div>
+
+      </div>
+
+      <div class="col-md-8">
+
+        <ul class="list-group" >
+
+          <li class="list-group-item" ng-repeat="card in list.cards">
+            <div>{{ card.card_type }} - {{ card.name }} - {{ card.alter_ego }}
+              <span class="icon elasticity" ng-show="card.elasticity"></span>
+              <span class="icon regeneration" ng-show="card.regeneration"></span>
+              <span class="icon blades" ng-show="card.blades"></span>
+              <span class="icon genius" ng-show="card.genius"></span>
+              <span class="icon super_strength" ng-show="card.super_strength"></span>
+              <span class="icon agility" ng-show="card.agility"></span>
+              <span class="icon telepathy" ng-show="card.telepathy"></span>
+              <span class="icon flying" ng-show="card.flying"></span>
+              <span class="icon ranged_attack" ng-show="card.ranged_attack"></span>
+              <span class="icon energy_attack" ng-show="card.energy_attack"></span>
+              <span class="icon telekinesis" ng-show="card.telekinesis"></span>
+              <span class="icon magic" ng-show="card.magic"></span>
+              <span class="icon neutral" ng-hide="card.card_type != 'h' || card.elasticity || card.regeneration || card.blades || card.genius || card.super_strength || card.agility || card.telepathy || card.flying || card.ranged_attack || card.energy_attack || card.telekinesis || card.magic"></span>
+            </div>
+
+            <div ng-controller="CardDetailsController as details">
+              <a class="details-button" href ng-click="details.toggleDetails()">Detalhes</a>
+
+              <div class="row card-details" ng-show="details.show">
+
+                <div class="col-sm-4 card-image">
+                  <img ng-src="assets/{{ card.id }}.png"/>
+                </div>
+
+                <div class="col-sm-8 card-info">
+                  <p>{{ card.text }}</p>
+                  <div class="well">
+                    <h3>({{ card.hability_cost }}) {{ card.hability_name }}</h3>
+                    <p>{{ card.hability_text }}</p>
+                  </div>
+                </div>
+
+              </div>
+
+            </div>
+          </li>
+
+        </ul>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>

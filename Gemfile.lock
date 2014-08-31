@@ -37,6 +37,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.7.0)
+    default_value_for (2.0.1)
     erubis (2.7.0)
     execjs (2.1.0)
     hike (1.2.3)
@@ -103,6 +104,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
+  default_value_for
   jquery-rails
   mysql2
   rails (= 3.2.6)
