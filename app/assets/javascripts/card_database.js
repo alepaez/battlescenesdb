@@ -21,9 +21,35 @@
           &&
           (list.powerFilterOn() ? list.powerFilter(card) : true)
           &&
-          (list.rarityFilterOn() ? list.rarityFilter(card) : true);
+          (list.rarityFilterOn() ? list.rarityFilter(card) : true)
+          &&
+          (list.typeFilterOn() ? list.typeFilter(card) : true);
       });
     };
+
+    this.typeFilterOn = function(){
+      return this.filter.hability == true
+        ||
+        this.filter.character == true
+        ||
+        this.filter.support == true
+        ||
+        this.filter.scenario == true
+    }
+
+    this.typeFilter = function(card){
+      return this.compareType(list.filter.hability, card.card_type, "h")
+        ||
+        this.compareRarity(list.filter.character, card.card_type, "p")
+        ||
+        this.compareRarity(list.filter.support, card.card_type, "s")
+        ||
+        this.compareRarity(list.filter.scenario, card.card_type, "c")
+    }
+
+    this.compareType = function(filterValue, cardValue, rarity){
+      return filterValue == true ? (cardValue || "").toString() == rarity : false
+    }
 
     this.rarityFilterOn = function(){
       return this.filter.ultra_rare == true
