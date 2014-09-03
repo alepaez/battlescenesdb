@@ -1,3 +1,17 @@
+body {
+ background-color: #6D777A;
+}
+
+.page-header h1{
+  color: #fff;
+}
+
+.list-group-item.card:hover {
+  background-color: #828387;
+  border: 1px solid #828387;
+  color: #fff;
+}
+
 .powerFilter .powerFilterSelect {
   margin-left: 3px;
   margin-right: 3px;
@@ -11,10 +25,27 @@
   margin-right: 0px;
 }
 
+.rarityFilter {
+  color: #fff
+}
+
+.typeFilter {
+  color: #fff
+}
+
 .details-button {
   position: absolute;
   right: 10px;
   top: 10px;
+}
+
+.card-basic-info {
+  display: inline-block;
+}
+
+.card-powers {
+  display: inline-block;
+  float: right
 }
 
 .card-details {
@@ -23,6 +54,24 @@
 
 .card-details h3 {
   margin-top: 0;
+}
+
+.well.hability {
+  color: #555;
+}
+
+span.hability_type {
+  display: inline-block;
+  width: 19px;
+  height: 19px;
+}
+
+span.hability_type.anticipation {
+  background-color: red;
+}
+
+span.hability_type.unforeseen {
+  background-color: black;
 }
 
 span.icon {

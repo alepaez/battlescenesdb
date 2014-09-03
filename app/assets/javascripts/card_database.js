@@ -1,6 +1,12 @@
 (function(){
   var app = angular.module('cardDatabase', []);
 
+  app.filter('hasHabilityType', function(){
+    return function(card, hability_type){
+      return !!(card.hability_type && card.hability_type.match(new RegExp(".*" + hability_type + ".*")));
+    };
+  });
+
   app.controller("ListController", [ '$http', function($http){
     var list = this;
     var allCards = [];
