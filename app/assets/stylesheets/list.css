@@ -1,15 +1,28 @@
 body {
- background-color: #6D777A;
+ background-color: #000;
+}
+.container {
+ background-color: #fd4b4b;
+}
+
+.page-header {
+  border-bottom: solid 1px #000;
 }
 
 .page-header h1{
-  color: #fff;
+  color: #000;
+}
+
+.list-group-item.card {
+  background-color: #54b7b8;
+  border: 1px solid #000;
+  color: #000;
 }
 
 .list-group-item.card:hover {
-  background-color: #828387;
-  border: 1px solid #828387;
-  color: #fff;
+  background-color: #5cbf5e;
+  border: 1px solid #000;
+  color: #000;
 }
 
 .powerFilter .powerFilterSelect {
@@ -26,11 +39,11 @@ body {
 }
 
 .rarityFilter {
-  color: #fff
+  color: #000
 }
 
 .typeFilter {
-  color: #fff
+  color: #000
 }
 
 .details-button {
